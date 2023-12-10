@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c32f26f-2b0f-437b-ab60-81acd5ad0dfb" name="Changes" comment="Iniciando applicación">
+    <list default="true" id="7c32f26f-2b0f-437b-ab60-81acd5ad0dfb" name="Changes" comment="Tabla funcioandno con las columnas listas para trabajar">
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/impresiones/ButtonThread.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/impresiones/ElementoTabla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/impresiones/TableViewWithProgressIndicator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/impresiones/VistaTabla.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/impresiones/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/impresiones/HelloApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/impresiones/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/impresiones/HelloController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702174355918</updated>
-      <workItem from="1702174357192" duration="10817000" />
+      <workItem from="1702174357192" duration="12383000" />
     </task>
     <task id="LOCAL-00001" summary="Iniciando applicación">
       <option name="closed" value="true" />
@@ -97,7 +93,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702174525632</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Tabla funcioandno con las columnas listas para trabajar">
+      <option name="closed" value="true" />
+      <created>1702186211265</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702186211265</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +109,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Iniciando applicación" />
-    <option name="LAST_COMMIT_MESSAGE" value="Iniciando applicación" />
+    <MESSAGE value="Tabla funcioandno con las columnas listas para trabajar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tabla funcioandno con las columnas listas para trabajar" />
   </component>
 </project>
