@@ -74,6 +74,7 @@ public class ElementoTabla {
             TableViewWithProgressIndicator.tabla.getItems().remove(ButtonThread.listaElementos.poll());
         });
 
+        // Animación para cambiar hojas (no sirve)
         Timeline labelUpdateTimeline = new Timeline(
                 new KeyFrame(Duration.ZERO, e -> updateHojas(0)),
                 new KeyFrame(Duration.seconds(1), e -> updateHojas(.1)),
