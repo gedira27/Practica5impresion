@@ -51,7 +51,7 @@ public class ButtonThread extends Thread{
     {
         super.run();
         while(true) {
-            System.out.println("Entro");
+            //System.out.println("Entro");
             // si el botón está en on
             // si el arreglo de elemntos está on (si hay valores en la tabla)
             // si no hay una animación existente

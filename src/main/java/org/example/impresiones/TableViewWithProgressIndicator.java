@@ -57,7 +57,7 @@ public class TableViewWithProgressIndicator extends Application {
         vbox.setFillWidth(true);
         vbox.setPadding(new Insets(20));
         Scene scene = new Scene(vbox, width, 600);
-        primaryStage.setTitle("Tabla con ProgressIndicator");
+        primaryStage.setTitle("Simulación de una impresora");
         primaryStage.setScene(scene);
         primaryStage.setResizable(false);
         primaryStage.show();
@@ -72,8 +72,7 @@ public class TableViewWithProgressIndicator extends Application {
             System.exit(0);
         });
     }
-
-
+    
     private Callback<TableColumn<ElementoTabla, Double>, TableCell<ElementoTabla, Double>> createProgressBarCellFactory() {
         return column -> new TableCell<ElementoTabla, Double>() {
             private final ProgressIndicator progressIndicator = new ProgressIndicator();

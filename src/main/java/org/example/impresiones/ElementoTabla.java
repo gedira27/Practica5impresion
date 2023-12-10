@@ -99,9 +99,9 @@ public class ElementoTabla {
     }
 
     private void updateHojas(double value) {
-        System.out.println("HACE ALGO");
+        // System.out.println("HACE ALGO");
         this.hojas = ((int)(numHojas*value))+"/"+numHojas;
-        System.out.println(hojas);
+        // System.out.println(hojas);
     }
 
     private String generarNombre() {

@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c32f26f-2b0f-437b-ab60-81acd5ad0dfb" name="Changes" comment="Tabla funcioandno con las columnas listas para trabajar">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/impresiones/ButtonThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/impresiones/ElementoTabla.java" afterDir="false" />
+    <list default="true" id="7c32f26f-2b0f-437b-ab60-81acd5ad0dfb" name="Changes" comment="App funcionando">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/impresiones/ButtonThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/impresiones/ButtonThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/impresiones/ElementoTabla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/impresiones/ElementoTabla.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/impresiones/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/impresiones/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/impresiones/TableViewWithProgressIndicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/impresiones/TableViewWithProgressIndicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/impresiones/VistaTabla.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,33 +33,33 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2ZKckNVnuuGIjcFOPXMx6WghSrH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Unnamed.executor": "Run",
-    "Gradle.Build Impresiones.executor": "Run",
-    "Gradle.Impresiones [:TableViewWithProgressIndicator.main()].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build Impresiones.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Impresiones [:TableViewWithProgressIndicator.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="ImpresionesAPP" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="17" />
@@ -83,7 +86,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702174355918</updated>
-      <workItem from="1702174357192" duration="12383000" />
+      <workItem from="1702174357192" duration="13202000" />
+      <workItem from="1702235551056" duration="1620000" />
     </task>
     <task id="LOCAL-00001" summary="Iniciando applicación">
       <option name="closed" value="true" />
@@ -101,7 +105,23 @@
       <option name="project" value="LOCAL" />
       <updated>1702186211265</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="App funcionando">
+      <option name="closed" value="true" />
+      <created>1702187731253</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702187731253</updated>
+    </task>
+    <task id="LOCAL-00004" summary="App funcionando">
+      <option name="closed" value="true" />
+      <created>1702187816534</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702187816534</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +130,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Iniciando applicación" />
     <MESSAGE value="Tabla funcioandno con las columnas listas para trabajar" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tabla funcioandno con las columnas listas para trabajar" />
+    <MESSAGE value="App funcionando" />
+    <option name="LAST_COMMIT_MESSAGE" value="App funcionando" />
   </component>
 </project>
